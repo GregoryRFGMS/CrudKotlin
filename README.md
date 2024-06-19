@@ -42,7 +42,7 @@ Para usar este projeto, siga as etapas abaixo:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/GregoryRFGMS/CrudKotlin
    ```
 
 2. Abra o projeto no Android Studio.
